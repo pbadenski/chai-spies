@@ -512,5 +512,5 @@
     Assertion.overwriteMethod('max', max);
     Assertion.overwriteMethod('most', max);
   };
-
+  return module.exports;
 });
